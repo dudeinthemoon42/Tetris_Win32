@@ -1,0 +1,15 @@
+#include <windows.h>
+
+#define IDD_ABOUT 9007
+
+IDD_ABOUT DIALOG DISCARDABLE  0, 0, 239, 66
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "My About Box"
+FONT 8, "MS Sans Serif"
+BEGIN
+    DEFPUSHBUTTON   "&OK",IDOK,174,18,50,14
+    PUSHBUTTON      "&Cancel",IDCANCEL,174,35,50,14
+    GROUPBOX        "About this program...",-1,7,7,225,52
+    CTEXT           "This is a buggy version of Tetris with a seeding error, Alpha build 10.12.23 GCC Win32.\r\nWritten by Bobby Barjasteh",
+                    /*IDC_STATIC is -1, but not recognized by codeblocks*/-1,16,18,144,33
+END

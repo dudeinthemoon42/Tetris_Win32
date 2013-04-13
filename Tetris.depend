@@ -1,0 +1,336 @@
+# depslib dependency file v1.0
+1295421483 source:e:\users\bobby\documents\tetris\piece.cpp
+	"Piece.h"
+	<windows.h>
+	<time.h>
+
+1277161050 e:\users\bobby\documents\tetris\piece.h
+	<windows.h>
+
+1295421401 source:e:\users\bobby\documents\tetris\board.cpp
+	"Board.h"
+	"Piece.h"
+	"apmatrix.h"
+	<time.h>
+
+1295074236 e:\users\bobby\documents\tetris\board.h
+	<windows.h>
+	"apmatrix.h"
+	"Piece.h"
+
+927213482 e:\users\bobby\documents\tetris\apmatrix.h
+
+1297641485 source:e:\users\bobby\documents\tetris\tetris.cpp
+	<windows.h>
+	<iostream>
+	"Piece.h"
+	"Board.h"
+	<sstream>
+	<string.h>
+	<stdlib.h>
+
+1137618437 e:\mingw\include\c++\3.4.5\sstream
+	<istream>
+	<ostream>
+	<bits/sstream.tcc>
+
+1137618435 e:\mingw\include\c++\3.4.5\istream
+	<ios>
+	<limits>
+	<bits/istream.tcc>
+
+1137618434 e:\mingw\include\c++\3.4.5\ios
+	<iosfwd>
+	<exception>
+	<bits/char_traits.h>
+	<cstdio>
+	<bits/localefwd.h>
+	<bits/ios_base.h>
+	<streambuf>
+	<bits/basic_ios.h>
+
+1137618435 e:\mingw\include\c++\3.4.5\iosfwd
+	<bits/c++config.h>
+	<bits/c++locale.h>
+	<bits/c++io.h>
+	<cctype>
+	<bits/stringfwd.h>
+	<bits/postypes.h>
+	<bits/functexcept.h>
+
+1137618430 e:\mingw\include\c++\3.4.5\cctype
+	<bits/c++config.h>
+	<ctype.h>
+
+1137618417 e:\mingw\include\c++\3.4.5\bits\stringfwd.h
+	<bits/c++config.h>
+
+1137618407 e:\mingw\include\c++\3.4.5\bits\postypes.h
+	<cwchar>
+	<stdint.h>
+
+1137618432 e:\mingw\include\c++\3.4.5\cwchar
+	<bits/c++config.h>
+	<cstddef>
+	<ctime>
+	<wchar.h>
+
+1137618431 e:\mingw\include\c++\3.4.5\cstddef
+	<stddef.h>
+
+1137618432 e:\mingw\include\c++\3.4.5\ctime
+	<cstddef>
+	<time.h>
+
+1137618404 e:\mingw\include\c++\3.4.5\bits\functexcept.h
+	<exception_defines.h>
+
+1137618558 e:\mingw\include\c++\3.4.5\exception_defines.h
+
+1137618554 e:\mingw\include\c++\3.4.5\exception
+
+1137618400 e:\mingw\include\c++\3.4.5\bits\char_traits.h
+	<cstring>
+	<bits/stl_algobase.h>
+	<bits/postypes.h>
+
+1137618432 e:\mingw\include\c++\3.4.5\cstring
+	<cstddef>
+	<string.h>
+
+1137618410 e:\mingw\include\c++\3.4.5\bits\stl_algobase.h
+	<bits/c++config.h>
+	<cstring>
+	<climits>
+	<cstdlib>
+	<cstddef>
+	<new>
+	<iosfwd>
+	<bits/stl_pair.h>
+	<bits/type_traits.h>
+	<bits/stl_iterator_base_types.h>
+	<bits/stl_iterator_base_funcs.h>
+	<bits/stl_iterator.h>
+	<bits/concept_check.h>
+	<debug/debug.h>
+
+1137618430 e:\mingw\include\c++\3.4.5\climits
+	<limits.h>
+
+1137618432 e:\mingw\include\c++\3.4.5\cstdlib
+	<bits/c++config.h>
+	<cstddef>
+	<stdlib.h>
+
+1137618555 e:\mingw\include\c++\3.4.5\new
+	<cstddef>
+	<exception>
+
+1137618414 e:\mingw\include\c++\3.4.5\bits\stl_pair.h
+
+1137618417 e:\mingw\include\c++\3.4.5\bits\type_traits.h
+	<bits/c++config.h>
+
+1137618413 e:\mingw\include\c++\3.4.5\bits\stl_iterator_base_types.h
+
+1137618412 e:\mingw\include\c++\3.4.5\bits\stl_iterator_base_funcs.h
+	<bits/concept_check.h>
+
+1137618401 e:\mingw\include\c++\3.4.5\bits\concept_check.h
+	<bits/c++config.h>
+	<bits/boost_concept_check.h>
+
+1137618400 e:\mingw\include\c++\3.4.5\bits\boost_concept_check.h
+	<cstddef>
+	<bits/stl_iterator_base_types.h>
+	<utility>
+
+1137618438 e:\mingw\include\c++\3.4.5\utility
+	<bits/c++config.h>
+	<bits/stl_relops.h>
+	<bits/stl_pair.h>
+
+1137618415 e:\mingw\include\c++\3.4.5\bits\stl_relops.h
+
+1137618412 e:\mingw\include\c++\3.4.5\bits\stl_iterator.h
+
+1137618440 e:\mingw\include\c++\3.4.5\debug\debug.h
+	<cassert>
+	<stddef.h>
+	<bits/stl_iterator_base_types.h>
+	<bits/type_traits.h>
+	<debug/formatter.h>
+
+1137618429 e:\mingw\include\c++\3.4.5\cassert
+	<assert.h>
+
+1137618440 e:\mingw\include\c++\3.4.5\debug\formatter.h
+	<typeinfo>
+	<debug/debug.h>
+
+1137618556 e:\mingw\include\c++\3.4.5\typeinfo
+	<exception>
+
+1137618431 e:\mingw\include\c++\3.4.5\cstdio
+	<bits/c++config.h>
+	<cstddef>
+	<stdio.h>
+
+1137618406 e:\mingw\include\c++\3.4.5\bits\localefwd.h
+	<bits/c++config.h>
+	<bits/c++locale.h>
+	<iosfwd>
+	<bits/functexcept.h>
+
+1137618405 e:\mingw\include\c++\3.4.5\bits\ios_base.h
+	<bits/atomicity.h>
+	<bits/localefwd.h>
+	<bits/locale_classes.h>
+
+1137618399 e:\mingw\include\c++\3.4.5\bits\atomicity.h
+	<bits/atomic_word.h>
+
+1137618405 e:\mingw\include\c++\3.4.5\bits\locale_classes.h
+	<bits/localefwd.h>
+	<cstring>
+	<string>
+	<bits/atomicity.h>
+	<bits/gthr.h>
+
+1137618438 e:\mingw\include\c++\3.4.5\string
+	<bits/c++config.h>
+	<bits/stringfwd.h>
+	<bits/char_traits.h>
+	<memory>
+	<bits/type_traits.h>
+	<iosfwd>
+	<bits/stl_iterator.h>
+	<bits/stl_function.h>
+	<bits/basic_string.h>
+	<algorithm>
+	<bits/basic_string.tcc>
+
+1137618436 e:\mingw\include\c++\3.4.5\memory
+	<bits/stl_algobase.h>
+	<bits/allocator.h>
+	<bits/stl_construct.h>
+	<bits/stl_iterator_base_types.h>
+	<bits/stl_uninitialized.h>
+	<bits/stl_raw_storage_iter.h>
+	<debug/debug.h>
+	<limits>
+
+1137618398 e:\mingw\include\c++\3.4.5\bits\allocator.h
+	<bits/c++allocator.h>
+
+1137618411 e:\mingw\include\c++\3.4.5\bits\stl_construct.h
+	<bits/type_traits.h>
+	<new>
+
+1137618416 e:\mingw\include\c++\3.4.5\bits\stl_uninitialized.h
+	<cstring>
+
+1137618415 e:\mingw\include\c++\3.4.5\bits\stl_raw_storage_iter.h
+
+1137618436 e:\mingw\include\c++\3.4.5\limits
+	<bits/c++config.h>
+
+1137618412 e:\mingw\include\c++\3.4.5\bits\stl_function.h
+
+1137618400 e:\mingw\include\c++\3.4.5\bits\basic_string.h
+	<bits/atomicity.h>
+	<debug/debug.h>
+
+1137618433 e:\mingw\include\c++\3.4.5\algorithm
+	<bits/stl_algobase.h>
+	<bits/stl_construct.h>
+	<bits/stl_uninitialized.h>
+	<bits/stl_algo.h>
+
+1137618409 e:\mingw\include\c++\3.4.5\bits\stl_algo.h
+	<bits/stl_heap.h>
+	<bits/stl_tempbuf.h>
+	<debug/debug.h>
+
+1137618412 e:\mingw\include\c++\3.4.5\bits\stl_heap.h
+	<debug/debug.h>
+
+1137618415 e:\mingw\include\c++\3.4.5\bits\stl_tempbuf.h
+	<memory>
+
+1137618400 e:\mingw\include\c++\3.4.5\bits\basic_string.tcc
+
+1137618438 e:\mingw\include\c++\3.4.5\streambuf
+	<bits/c++config.h>
+	<iosfwd>
+	<bits/localefwd.h>
+	<bits/ios_base.h>
+	<bits/streambuf.tcc>
+
+1137618417 e:\mingw\include\c++\3.4.5\bits\streambuf.tcc
+
+1137618399 e:\mingw\include\c++\3.4.5\bits\basic_ios.h
+	<bits/streambuf_iterator.h>
+	<bits/localefwd.h>
+	<bits/locale_classes.h>
+	<bits/locale_facets.h>
+	<bits/basic_ios.tcc>
+
+1137618407 e:\mingw\include\c++\3.4.5\bits\streambuf_iterator.h
+	<streambuf>
+	<debug/debug.h>
+
+1137618406 e:\mingw\include\c++\3.4.5\bits\locale_facets.h
+	<ctime>
+	<cwctype>
+	<iosfwd>
+	<bits/ios_base.h>
+	<streambuf>
+	<bits/ctype_base.h>
+	<bits/ctype_inline.h>
+	<bits/codecvt.h>
+	<bits/time_members.h>
+	<bits/messages_members.h>
+
+1137618432 e:\mingw\include\c++\3.4.5\cwctype
+	<bits/c++config.h>
+	<wctype.h>
+
+1137618401 e:\mingw\include\c++\3.4.5\bits\codecvt.h
+	<bits/codecvt_specializations.h>
+
+1137618399 e:\mingw\include\c++\3.4.5\bits\basic_ios.tcc
+
+1137618405 e:\mingw\include\c++\3.4.5\bits\istream.tcc
+	<locale>
+	<ostream>
+
+1137618436 e:\mingw\include\c++\3.4.5\locale
+	<bits/localefwd.h>
+	<bits/locale_classes.h>
+	<bits/locale_facets.h>
+	<bits/locale_facets.tcc>
+
+1137618406 e:\mingw\include\c++\3.4.5\bits\locale_facets.tcc
+	<limits>
+	<typeinfo>
+	<bits/streambuf_iterator.h>
+
+1137618437 e:\mingw\include\c++\3.4.5\ostream
+	<ios>
+	<bits/ostream.tcc>
+
+1137618407 e:\mingw\include\c++\3.4.5\bits\ostream.tcc
+	<locale>
+
+1137618409 e:\mingw\include\c++\3.4.5\bits\sstream.tcc
+	<sstream>
+
+1295324744 source:e:\users\bobby\documents\tetris\tetrisrc1.rc
+	<windows.h>
+
+1137618435 e:\mingw\include\c++\3.4.5\iostream
+	<bits/c++config.h>
+	<ostream>
+	<istream>
+
